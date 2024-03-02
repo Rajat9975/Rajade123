@@ -2,9 +2,11 @@
 ## Setup and Installation
 
 1. Clone this repository to your local machine.
-
+```bash
+   [pip install -r requirements.txt](https://github.com/Rajat9975/Rajade123.git)
    ```
-2. Install the required dependencies:
+
+3. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
