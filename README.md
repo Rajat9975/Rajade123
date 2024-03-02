@@ -3,7 +3,7 @@
 
 1. Clone this repository to your local machine.
 ```bash
-   [pip install -r requirements.txt](https://github.com/Rajat9975/Rajade123.git)
+   https://github.com/Rajat9975/Rajade123.git
    ```
 
 3. Install the required dependencies:
